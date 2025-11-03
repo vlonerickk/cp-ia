@@ -1,9 +1,5 @@
 # Projeto cp-ia
 
-## 🚀 Sobre o Projeto
-
-(Adicione aqui uma breve descrição do objetivo do seu projeto. O que ele faz? Qual problema ele resolve?)
-
 ## 📁 Conteúdo do Repositório
 
 O repositório está estruturado da seguinte forma:
