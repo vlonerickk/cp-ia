@@ -1,7 +1,5 @@
 # Projeto cp-ia
 
-Este repositório contém o código e os arquivos para o projeto `cp-ia`, provavelmente relacionado a um Checkpoint (CP) de Inteligência Artificial.
-
 ## 🚀 Sobre o Projeto
 
 (Adicione aqui uma breve descrição do objetivo do seu projeto. O que ele faz? Qual problema ele resolve?)
